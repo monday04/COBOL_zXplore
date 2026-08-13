@@ -1,5 +1,5 @@
       * this is a copy book for the ksds file 'claims'                  00010000
-      *   01  CLAIMS-RECORD.                                            00020000
+          01  CLAIMS-RECORD.                                            00020000
              05  CL-REC-KEY            PIC X(8).                        00030000
              05  CL-REC-DATE           PIC X(10).                       00040000
              05  CL-REC-AGE.                                            00050000
